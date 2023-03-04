@@ -1,0 +1,4 @@
+Repositório da Atividade 03 - https://github.com/EduardoAguiarS/atividade03-frontend-toledo
+Deploy da Atividade 03 - https://atividade03-frontend-toledo.vercel.app/
+
+OBS: O Deploy foi feito no Vercel, pois o Heroku não possui mais planos gratuitos aparentemente.
